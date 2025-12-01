@@ -68,9 +68,8 @@ Year-wise performance trends
 
 📊 Dashboard Preview
 
-(Add images in your repo using:)
+![Cricket Project Screenshot](https://github.com/Gargiparlikar/End-to-End-Cricket-Data-Analytics-Project-/blob/main/Screenshot%202025-12-01%20130620.png)
 
-![Dashboard](dashboard/dashboard1.png)
 
 🚀 How to Run the Notebook
 pip install -r requirements.txt
@@ -86,13 +85,6 @@ Teams batting second win 53% of matches
 
 Home teams show 23% better performance
 
-📁 Repository Structure
-├── notebooks/
-├── data/
-├── scripts/
-├── dashboard/
-├── README.md
-└── requirements.txt
 
 ✔ Future Improvements
 
