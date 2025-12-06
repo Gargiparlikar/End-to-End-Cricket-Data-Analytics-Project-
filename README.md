@@ -1,13 +1,13 @@
-#🏏 End-to-End Cricket Data Analytics Project
+# 🏏 End-to-End Cricket Data Analytics Project
 
 A complete analytics solution covering web scraping → cleaning → transformation → insights → Power BI dashboard for cricket match performance tracking.
 
-📌 Overview
+ # 📌 Overview
 
 This project collects cricket match data, cleans it, analyzes performance trends, and visualizes insights through Power BI dashboards.
 It was built to showcase ETL automation, data engineering, and analytics storytelling.
 
-🛠 Tech Stack
+ # 🛠 Tech Stack
 
 Python (Pandas, NumPy, Matplotlib, BeautifulSoup)
 
@@ -19,13 +19,13 @@ Excel
 
 Jupyter Notebook
 
-📥 Dataset Source
+# 📥 Dataset Source
 
 Scraped from cricket statistics websites using Python + BeautifulSoup.
 
 10,000+ match records collected (batting, bowling, match summary).
 
-🔄 Workflow
+# 🔄 Workflow
 1. Web Scraping
 
 Extracted match details
@@ -66,16 +66,16 @@ Match outcome visuals
 
 Year-wise performance trends
 
-📊 Dashboard Preview
+# 📊 Dashboard Preview
 
 ![Cricket Project Screenshot](https://github.com/Gargiparlikar/End-to-End-Cricket-Data-Analytics-Project-/blob/main/Screenshot%202025-12-01%20130620.png)
 
 
-🚀 How to Run the Notebook
+# 🚀 How to Run the Notebook
 pip install -r requirements.txt
 jupyter notebook
 
-🧾 Key Insights
+# 🧾 Key Insights
 
 Openers contribute 48% of team runs
 
@@ -86,7 +86,7 @@ Teams batting second win 53% of matches
 Home teams show 23% better performance
 
 
-✔ Future Improvements
+# ✔ Future Improvements
 
 Automate daily scraping
 
